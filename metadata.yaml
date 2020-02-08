@@ -1,0 +1,44 @@
+_repo: Diversions-of-a-Naturalist_61195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lankester, E. Ray (Edwin Ray), Sir
+    aliases:
+    - Lankester, Ray, Sir
+    - Lankester, Sir E. Ray (Edwin Ray)
+    - Lankester, Edwin Ray, Sir
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '32398'
+    url: http://www.gutenberg.org/2009/agents/32398
+    wikipedia: http://en.wikipedia.org/wiki/Ray_Lankester
+description: ''
+gutenberg_issued: '2020-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history'
+- !lcc 'QH'
+- GITenberg
+tableOfContents: On a Norwegian fiord -- Nature-reserves -- Far from the madding crowd
+  -- The great grey seal -- The grouse and other birds -- The sand and pebbles of
+  the seashore -- The constituents of a seabeach -- Quicksands and fire-stones --
+  Amber -- Sea-worms and sea-anemones -- Coral-makers and jelly-fish -- Shrimps, crabs,
+  and barnacles -- Barnacles and other crustaceans -- The history of the barnacle
+  and the goose -- More as to the barnacle and the goose -- Sea-shells on the seashore
+  -- Sand-hoppers -- A Swiss interlude -- Science and dancing -- Courtship -- Courtship
+  in animals and man -- Courtship and display -- Courtship, instinct and reason --
+  Daddy-Long-Legs -- The moth and the candle -- From ape to man -- The skeleton of
+  apes and of man -- The brain of apes and of man -- The mind of apes and of man --
+  The missing link -- The supply of pure milk -- Christmas trees and other pine trees
+  -- The lymph and the lymphatic system -- The blood and its circulation -- Fish and
+  fast days -- Science and the unknown -- Divination and palmistry -- Toads found
+  living in stone -- The divining-rod -- Birth-marks and telegony -- How to promote
+  scientific discovery by money.
+title: Diversions of a Naturalist
+url: http://www.gutenberg.org/ebooks/61195
